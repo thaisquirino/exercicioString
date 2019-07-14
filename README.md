@@ -1,1 +1,1 @@
-# exercicioString
+# exercicioString :arrow_left:
